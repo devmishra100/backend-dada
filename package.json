@@ -1,0 +1,16 @@
+{
+  "name": "backenddada",
+  "version": "1.0.0",
+  "description": "mern stack learning base use of channel name - youtube",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "dev mishra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
